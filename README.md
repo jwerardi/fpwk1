@@ -1,7 +1,7 @@
 Jammes Erardi
 01416000
 
-I'm really not sure how to begin working on this project, but I spent a good amount of time this week researching how I would accomplish the first problem. I found several resources and I'll begin working on the project asap.
+I'm really not sure how to begin working on this project, and I had to miss class this week because of a work related function, but I spent a good amount of time this week researching how I would accomplish the first problem. I found several resources and I'll begin working on the project asap.
 
 
 Resources I found:
